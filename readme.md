@@ -9,8 +9,6 @@
 <br>
 
 <img align="centre" alt="GrishmaRajKhanal's Github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrishmaRajKhanal&locale=en&show_icons=false&theme=great-gatsby&layout=compact"  alt="GrishmaRajKhanal's Top Languages"/>
-![Org](https://img.shields.io/badge/Org-GuardWare--Australia-blue?style=flat&logo=github)
-
  
 <p alight="right">
   <img align="right" src="https://komarev.com/ghpvc/?username=GrishmaRajKhanal&style=plastic&color=blue" />
