@@ -2,7 +2,7 @@
 
 ---
 
-<img align="centre" alt="GrishmaRajKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaKhanal&theme=great-gatsby&locale=en"  alt="GrishmaRajKhanal's GitHub Streaks"/>
+<img align="centre" alt="GrishmaRajKhanal's Github streaks" src="https://streak-stats.demolab.com?user=GrishmaRajKhanal&theme=great-gatsby&locale=en"  alt="GrishmaRajKhanal's GitHub Streaks"/>
 <br>
 
 <img align="centre" alt="GrishmaRajKhanal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GrishmaRajKhanal&locale=en&theme=great-gatsby&layout=compact&show_icons=true" alt="GrishmaRajKhanal's GitHub Stats" /> 
